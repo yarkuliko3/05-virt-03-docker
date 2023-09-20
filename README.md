@@ -54,7 +54,8 @@ https://hub.docker.com/repository/docker/yarkuliko3/firsttask-nginx/general
 - Подключитесь к первому контейнеру с помощью ```docker exec``` и создайте текстовый файл любого содержания в ```/data```.
 - Добавьте ещё один файл в папку ```/data``` на хостовой машине.
 - Подключитесь во второй контейнер и отобразите листинг и содержание файлов в ```/data``` контейнера.
-## [Ответ]
+## Ответ
+![Ответ](https://github.com/yarkuliko3/05-virt-03-docker/blob/main/Screenshot%20from%202023-09-20%2014-31-41.png?raw=true)
 
 ## Задача 4 (*)
 
