@@ -62,6 +62,7 @@ https://hub.docker.com/repository/docker/yarkuliko3/firsttask-nginx/general
 Воспроизведите практическую часть лекции самостоятельно.
 
 Соберите Docker-образ с Ansible, загрузите на Docker Hub и пришлите ссылку вместе с остальными ответами к задачам.
-
+## Ответ
+https://hub.docker.com/repository/docker/yarkuliko3/alpine/general
 
 
